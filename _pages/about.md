@@ -17,14 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-His current research focus is on the applications of integrated process-based hydrologic models and remote sensing approaches to describe groundwater-surface water interactions and the associated processes, especially changes in land surface processes, and assessing their possible impacts on the eco-hydrology over the Heihe River Basin of China as well as other arid and semi-arid regions.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a first-year Ph.D. student at City University of HongKong, supervised by <a href='[https://www.cs.cityu.edu.hk/~rynson/]'>Prof. Rynson.W.H.Lau</a> and <a href='[https://scholar.google.com/citations?user=C2iR3xUAAAAJ]'>Prof. Gerhard Hancke</a>. Previously, I received my Master degree in <a href='[https://vill.tongji.edu.cn/index.htm]'>Tongji VILL Lab</a> in 2024, supervised by <a href='[https://vill.tongji.edu.cn/cy/fzr.htm]]'>Prof. Cairong Zhao</a>, and my Bachelor degree in Dalian University of Technology in 2021. I also have a deep academic collaboration with <a href='https://scholar.google.com/citations?user=JiTfWVMAAAAJ'>Xinyang Jiang</a> from Microsoft Research Asia. My research interests are in deep learning and computer vision, with specific interest in low-level vision task, person re-id, 3D reconstruction, etc.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 One paper about Video Quality Enhancement is accepted by ECCV 2024.
+- *2021.04*: &nbsp; I get my Master Degree at Tongji.
+- *2024.03*: &nbsp;🎉🎉 One paper about Video Super-Resolution is accepted by IEEE TIP 2024.
+- *2023.06*: &nbsp;🎉🎉 One paper about Person-ReID is accepted by IEEE TIP 2023.
+- *2023.03*: &nbsp; I join Microsoft Research Asia as a Machine-learning Intern.
+- *2021.09*: &nbsp; I join Tongji VILL Lab as a Master Candidate.
+- *2021.06*: &nbsp; I get my Bachelor Degree at DLUT.
 
 # 📝 Publications 
 
