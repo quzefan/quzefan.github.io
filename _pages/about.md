@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year Ph.D. student at City University of HongKong, supervised by <a href="https://www.cs.cityu.edu.hk/~rynson/">Prof. Rynson.W.H.Lau</a> and <a href="https://scholar.google.com/citations?user=C2iR3xUAAAAJ">Prof. Gerhard Hancke</a>. Previously, I received my Master degree in <a href="https://vill.tongji.edu.cn/index.htm">Tongji VILL Lab</a> in 2024, supervised by <a href="https://vill.tongji.edu.cn/cy/fzr.htm">Prof. Cairong Zhao</a>, and my Bachelor degree in Dalian University of Technology in 2021. I also have a deep academic collaboration with <a href="https://scholar.google.com/citations?user=JiTfWVMAAAAJ">Xinyang Jiang</a> from Microsoft Research Asia. My research interests are in deep learning and computer vision, with specific interest in low-level vision task, person re-id, 3D reconstruction, etc.
+I am currently a first-year Ph.D. student at City University of HongKong, supervised by <a href="https://www.cs.cityu.edu.hk/~rynson/">Prof. Rynson.W.H.Lau</a> and <a href="https://scholar.google.com/citations?user=C2iR3xUAAAAJ">Prof. Gerhard Hancke</a>. Previously, I received my Master degree in <a href="https://vill.tongji.edu.cn/index.htm">Tongji VILL Lab</a> in 2024, supervised by <a href="https://vill.tongji.edu.cn/cy/fzr.htm">Prof. Cairong Zhao</a>, and my Bachelor degree in Dalian University of Technology in 2021. I also have a deep academic collaboration with <a href="https://scholar.google.com/citations?user=JiTfWVMAAAAJ">Dr. Xinyang Jiang</a> from Microsoft Research Asia. My research interests are in deep learning and computer vision, with specific interest in low-level vision task, person re-id, 3D reconstruction, etc.
 
 
 # 🔥 News
