@@ -48,13 +48,13 @@ I am currently a first-year Ph.D. student at City University of HongKong, superv
 
 [Online streaming video super-resolution with convolutional look-up table](https://ieeexplore.ieee.org/abstract/document/10471308)
 
-**Guanghao Yin***, **Zefan Qu*** , Xinyang Jiang, Shan Jiang, Zhenhua Han, Ningxin Zheng, Huan Yang, Xiaohong Liu, Yuqing Yang, Dongsheng Li, Lili Qiu
+**Guanghao Yin***, **Zefan Qu***, Xinyang Jiang, Shan Jiang, Zhenhua Han, Ningxin Zheng, Huan Yang, Xiaohong Liu, Yuqing Yang, Dongsheng Li, Lili Qiu
 [**Project**](https://github.com/quzefan/ConvLUT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Video Super Resolution, Look-up Table, Temporal Fusion
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/TIP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/TIP2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Content-adaptive auto-occlusion network for occluded person re-identification](https://ieeexplore.ieee.org/abstract/document/10173750/)
@@ -71,8 +71,8 @@ I am currently a first-year Ph.D. student at City University of HongKong, superv
 - *2021.06* DLUT Outstanding Graduates.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.04*, Tongji University, Computer Science and Technology. 
+- *2017.09 - 2021.06*, Dalian University of Technology, Software Engineering.  
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.03 - 2023.04*, Microsoft Research Asia(https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Shanghai, China.
