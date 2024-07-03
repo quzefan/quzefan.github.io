@@ -31,23 +31,44 @@ I am currently a first-year Ph.D. student at City University of HongKong, superv
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Online Video Quality Enhancement with Spatial-Temporal Look-up Tables](https://arxiv.org/abs/2311.13616)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zefan Qu**, Xinyang Jiang, Yifan Yang, Dongsheng Li, Cairong Zhao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://arxiv.org/abs/2311.13616) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Video Quality Enhancement, Look-up Table, Light-weight
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/TIP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Online streaming video super-resolution with convolutional look-up table](https://ieeexplore.ieee.org/abstract/document/10471308)
+
+**Guanghao Yin**, **Zefan Qu** , Xinyang Jiang, Shan Jiang, Zhenhua Han, Ningxin Zheng, Huan Yang, Xiaohong Liu, Yuqing Yang, Dongsheng Li, Lili Qiu
+[**Project**](https://github.com/quzefan/ConvLUT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Video Super Resolution, Look-up Table, Temporal Fusion
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/TIP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Content-adaptive auto-occlusion network for occluded person re-identification](https://ieeexplore.ieee.org/abstract/document/10173750/)
+
+**Cairong Zhao**, **Zefan Qu**, Xinyang Jiang, Yuanpeng Tu, Xiang Bai
+[**Project**](https://github.com/Vill-Lab/2023-TIP-CAAO) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Occluded Person ReID, Auto Data Augmentation, Reinforcement Learning
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04* Tongji University Outstanding Graduates. 
+- *2023.09* Tongji University Outstanding Master's Scholarship.
+- *2021.06* DLUT Outstanding Graduates.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
