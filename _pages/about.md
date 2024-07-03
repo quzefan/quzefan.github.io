@@ -75,4 +75,4 @@ I am currently a first-year Ph.D. student at City University of HongKong, superv
 - *2017.09 - 2021.06*, Dalian University of Technology, Software Engineering.  
 
 # 💻 Internships
-- *2022.03 - 2023.04*, Microsoft Research Asia(https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Shanghai, China.
+- *2022.03 - 2023.04*, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Shanghai, China.
