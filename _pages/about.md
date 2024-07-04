@@ -21,10 +21,10 @@ I am currently a first-year Ph.D. student at City University of HongKong, superv
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper about Video Quality Enhancement is accepted by ECCV 2024.
+- *2024.07*: &nbsp;🎉 One paper about Video Quality Enhancement is accepted by ECCV 2024.
 - *2024.04*: &nbsp; I get my Master Degree at Tongji.
-- *2024.03*: &nbsp;🎉🎉 One paper about Video Super-Resolution is accepted by IEEE TIP 2024.
-- *2023.06*: &nbsp;🎉🎉 One paper about Person-ReID is accepted by IEEE TIP 2023.
+- *2024.03*: &nbsp;🎉 One paper about Video Super-Resolution is accepted by IEEE TIP 2024.
+- *2023.06*: &nbsp;🎉 One paper about Person-ReID is accepted by IEEE TIP 2023.
 - *2023.03*: &nbsp; I join Microsoft Research Asia as a Machine-learning Intern.
 - *2021.09*: &nbsp; I join Tongji VILL Lab as a Master Candidate.
 - *2021.06*: &nbsp; I get my Bachelor Degree at DLUT.
