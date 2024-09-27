@@ -21,7 +21,7 @@ I am currently a first-year Ph.D. student at City University of HongKong, superv
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉 One paper about low-light NeRF is accepted by NeurIPs 2024.
+- *2024.09*: &nbsp;🎉 One paper about low-light NeRF is accepted by NeurIPS 2024.
 - *2024.07*: &nbsp;🎉 One paper about Video Quality Enhancement is accepted by ECCV 2024.
 - *2024.04*: &nbsp; I get my Master Degree at Tongji.
 - *2024.03*: &nbsp;🎉 One paper about Video Super-Resolution is accepted by IEEE TIP 2024.
@@ -32,7 +32,7 @@ I am currently a first-year Ph.D. student at City University of HongKong, superv
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPs 2024</div><img src='images/LuSh-NeRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/LuSh-NeRF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes](https://quzefan.github.io)
