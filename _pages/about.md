@@ -72,7 +72,7 @@ Guanghao Yin*, **Zefan Qu***, Xinyang Jiang, Shan Jiang, Zhenhua Han, Ningxin Zh
 
 [Content-adaptive auto-occlusion network for occluded person re-identification](https://ieeexplore.ieee.org/abstract/document/10173750/)
 
-**Cairong Zhao**(Supervisor), **Zefan Qu**, Xinyang Jiang, Yuanpeng Tu, Xiang Bai
+Cairong Zhao(Supervisor), **Zefan Qu**, Xinyang Jiang, Yuanpeng Tu, Xiang Bai
 [**Project**](https://github.com/Vill-Lab/2023-TIP-CAAO) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Occluded Person ReID, Auto Data Augmentation, Reinforcement Learning
 </div>
