@@ -61,7 +61,7 @@ I am currently a first-year Ph.D. student at City University of HongKong, superv
 
 [Online streaming video super-resolution with convolutional look-up table](https://ieeexplore.ieee.org/abstract/document/10471308)
 
-Guanghao Yin*, **Zefan Qu***, Xinyang Jiang, Shan Jiang, Zhenhua Han, Ningxin Zheng, Huan Yang, Xiaohong Liu, Yuqing Yang, Dongsheng Li, Lili Qiu
+Guanghao Yin*, **Zefan Qu\***, Xinyang Jiang, Shan Jiang, Zhenhua Han, Ningxin Zheng, Huan Yang, Xiaohong Liu, Yuqing Yang, Dongsheng Li, Lili Qiu
 [**Project**](https://github.com/quzefan/ConvLUT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Video Super Resolution, Look-up Table, Temporal Fusion
 </div>
