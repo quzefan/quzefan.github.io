@@ -21,6 +21,7 @@ I am currently a first-year Ph.D. student at City University of HongKong, superv
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉 One paper about 3D Generation is accepted by SIGGRAPH Asia 2025.
 - *2024.09*: &nbsp;🎉 One paper about low-light NeRF is accepted by NeurIPS 2024.
 - *2024.07*: &nbsp;🎉 One paper about Video Quality Enhancement is accepted by ECCV 2024.
 - *2024.04*: &nbsp; I get my Master Degree at Tongji.
