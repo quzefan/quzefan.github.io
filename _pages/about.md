@@ -48,11 +48,11 @@ I am currently a first-year Ph.D. student at City University of HongKong, superv
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/LuSh-NeRF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes](https://quzefan.github.io)
+[LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes](https://github.com/quzefan/LuSh-NeRF)
 
 **Zefan Qu**, Ke Xu, Gerhard Petrus Hancke, Rynson W. H. Lau
 
-[**Project**](https://quzefan.github.io) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/quzefan/LuSh-NeRF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - NeRF Reconstruction, Practical Low-Light Scenes, Decomposition
 </div>
 </div>
