@@ -33,6 +33,18 @@ I am currently a first-year Ph.D. student at City University of HongKong, superv
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[StyleSculptor: Zero-Shot Style-Controllable 3D Asset Generation with Texture-Geometry Dual Guidance](https://stylesculptor.github.io/)
+
+**Zefan Qu**, Zhenwei Wang, Haoyuan Wang, Ke Xu, Gerhard Petrus Hancke, Rynson W.H. Lau
+
+[**Project**](https://stylesculptor.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 3D Generation, Zero-Shot, Style-Guided Generation
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/LuSh-NeRF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
