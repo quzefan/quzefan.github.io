@@ -92,7 +92,7 @@ Cairong Zhao(Supervisor), **Zefan Qu**, Xinyang Jiang, Yuanpeng Tu, Xiang Bai
 </div>
 
 # 🎖 Honors and Awards
-- *2025.09* Outstanding Academic Performance Award for Research Degree Students. 
+- *2025.09* Outstanding Academic Performance Award. 
 - *2024.04* Tongji University Outstanding Graduates. 
 - *2023.09* Tongji University Outstanding Master's Scholarship.
 - *2021.06* DLUT Outstanding Graduates.
