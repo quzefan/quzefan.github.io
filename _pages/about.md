@@ -21,6 +21,7 @@ I am currently a second-year Ph.D. student at City University of Hong Kong, supe
 
 
 # 🔥 News
+- *2026.05*: &nbsp; I join Tencent as a Research Intern(Qingyun & Rhino-Bird Project).
 - *2025.08*: &nbsp;🎉 One paper about 3D Generation is accepted by SIGGRAPH Asia 2025.
 - *2024.09*: &nbsp;🎉 One paper about low-light NeRF is accepted by NeurIPS 2024.
 - *2024.07*: &nbsp;🎉 One paper about Video Quality Enhancement is accepted by ECCV 2024.
