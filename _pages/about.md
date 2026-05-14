@@ -103,4 +103,5 @@ Cairong Zhao(Supervisor), **Zefan Qu**, Xinyang Jiang, Yuanpeng Tu, Xiang Bai
 - *2017.09 - 2021.06*, Dalian University of Technology, Software Engineering.  
 
 # 💻 Internships
+- *2026.05 - Present*, [Tencent AIPD]([https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/](https://ailab.tencent.com/ailab/zh/index)), Shenzhen, China.
 - *2022.03 - 2023.04*, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Shanghai, China.
